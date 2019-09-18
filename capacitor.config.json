@@ -1,0 +1,7 @@
+{
+  "appId": "com.entropy.app",
+  "appName": "entropy",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
